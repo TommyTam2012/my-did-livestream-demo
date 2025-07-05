@@ -2,6 +2,7 @@
   "key": "dGFlYXNsYWhrQGdtYWlsLmNvbQ:gp_3pZj1UKrOW4_fQdMOr",
   "url": "https://api.d-id.com",
   "websocketUrl": "wss://ws-api.d-id.com",
-  "service": "clips",
+  "service": "talks",
+  "source_url": "https://raw.githubusercontent.com/TommyTam2012/avatar-voice-ai/main/public/myavatar.png",
   "elevenlabsKey": ""
 }
