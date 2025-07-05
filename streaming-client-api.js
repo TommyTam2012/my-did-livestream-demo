@@ -53,7 +53,7 @@ const scriptConfigs = {
   text: {
     type: 'text',
     provider: { type: 'elevenlabs', voice_id: 'E2iXioKRyjSqJA8tUYsv' },
-    input: `我是Tommy老师，我正在尝试最新的科技，看看能否实现照片加语音克隆和实时语音的功能。如果可以的话，我想尽快把它用在我的课堂上。`,
+    input: `I am Tommy Sir and I am using the latest technology to see if I can use my photo plus voice clone and real time.  If this is possible, I want to use it for my classes, soon.。`,
     ssml: true,
   },
 };
