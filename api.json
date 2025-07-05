@@ -4,5 +4,5 @@
   "websocketUrl": "wss://ws-api.d-id.com",
   "service": "talks",
   "source_url": "https://raw.githubusercontent.com/TommyTam2012/avatar-voice-ai/main/public/myavatar.png",
-  "elevenlabsKey": ""
+  "elevenlabsKey": "sk_ecbd87ba2ecf302ec5729676ae3a983e956f3bb82b42c3ad"
 }
