@@ -48,7 +48,7 @@ const presenterInputByService = {
 const scriptConfigs = {
   audio: {
     type: 'audio',
-    audio_url: 'https://d-id-public-bucket.s3.us-west-2.amazonaws.com/webrtc.mp3',
+    audio_url: 'https://raw.githubusercontent.com/TommyTam2012/avatar-voice-ai/main/public/myvoice.mp3',
   },
   text: {
     type: 'text',
@@ -57,7 +57,6 @@ const scriptConfigs = {
     ssml: true,
   },
 };
-
 const connectButton = document.getElementById('connect-button');
 connectButton.onclick = async () => {
   if (peerConnection && peerConnection.connectionState === 'connected') {
