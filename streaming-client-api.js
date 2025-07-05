@@ -38,14 +38,13 @@ const streamEventLabel = document.getElementById('stream-event-label');
 
 const presenterInputByService = {
   talks: {
-    source_url: 'https://create-images-results.d-id.com/DefaultPresenters/Emma_f/v1_image.jpeg',
+    source_url: 'https://raw.githubusercontent.com/TommyTam2012/avatar-voice-ai/main/public/myavatar.png',
   },
   clips: {
     presenter_id: 'v2_public_alex@qcvo4gupoy',
     driver_id: 'e3nbserss8',
   },
 };
-
 const scriptConfigs = {
   audio: {
     type: 'audio',
