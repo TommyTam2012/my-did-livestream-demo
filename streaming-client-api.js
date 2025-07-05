@@ -52,7 +52,7 @@ const scriptConfigs = {
   },
   text: {
     type: 'text',
-    provider: { type: 'elevenlabs', voice_id: 'E2iXioKRyjSqJA8tUYsv' },
+    provider: { type: 'elevenlabs', voice_id: 'EXAVITQu4vr4xnSDxMaL' },
     input: `I am Tommy Sir and I am using the latest technology to see if I can use my photo plus voice clone and real time.  If this is possible, I want to use it for my classes, soon.。`,
     ssml: true,
   },
